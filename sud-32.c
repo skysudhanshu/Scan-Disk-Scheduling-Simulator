@@ -49,6 +49,7 @@ int main()
       int minimum=min(arr,n);
       int maximum=max(arr,n);
       int sum=0; 
+      
       if((start-prev)>0)
      {
              sum=(largest-start)+(largest-minimum);
