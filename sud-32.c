@@ -1,6 +1,5 @@
 #include<stdlib.h>
 #include<stdio.h>
-
 int min(int *arr,int n)
 {
       int mini=arr[0];
